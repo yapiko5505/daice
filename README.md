@@ -1,5 +1,7 @@
 # daice
 
+サイコロゲームのサイトを制作しました。
+
 # デモ
  [webサイト](https://yasuko-daice.herokuapp.com/)
 
