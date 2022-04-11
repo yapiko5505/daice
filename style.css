@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.container {
+    width :70%;
+    margin :auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+button {
+    font-size: 2rem;
+    color: #ffc0cb;
+    background-color: #f00;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    -webkit-transition-duration: 0.4s;
+}
+
+button:hover {
+    color: #fff;
+}
+
+.daice {
+    width: 30%;
+}
