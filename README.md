@@ -3,7 +3,7 @@
 サイコロゲームのサイトを制作しました。
 
 # デモ
- [webサイト](https://yasuko-daice.herokuapp.com/)
+ [webサイト]https://yasuko-daice.herokuapp.com/
 
 
 ![スクリーンショット](https://user-images.githubusercontent.com/84828867/162678577-d2039920-8e82-49c1-8f3f-824a69ec190c.png)
